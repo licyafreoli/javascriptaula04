@@ -1,0 +1,7 @@
+{
+    "tasks": [
+        {"status": "todo", "description": "Learn JavaScript", "dueDate": "2024-05-28"},
+        {"status": "in-progress", "description": "Build a Kanban Board", "dueDate": "2024-05-26"},
+        {"status": "done", "description": "Create HTML structure", "dueDate": "2024-05-24"}
+    ]
+}
